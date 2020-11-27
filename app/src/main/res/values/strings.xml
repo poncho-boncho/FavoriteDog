@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FavoriteDog</string>
+    <string name="label">Какая твоя любимая порода?</string>
+</resources>
